@@ -1,2 +1,2 @@
 # bash-games
-搜集bash的小游戏 :P
+搜集的 Bash 小游戏 :P
